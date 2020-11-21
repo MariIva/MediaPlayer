@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+
+    <string name="run"><![CDATA[>]]></string>
+    <string name="pause">||</string>
+    <string name="next"><![CDATA[>>]]></string>
+    <string name="prev"><![CDATA[<<]]></string>
+
+    <string name="rb_1_name">1 мелодия из ресурсов</string>
+    <string name="rb_2_name">Все мелодии из ресурсов</string>
+    <string name="rb_3_name">1 мелодия из папки Music</string>
+    <string name="rb_4_name">Все мелодии из папки Music</string>
+    <string name="rb_5_name">Все мелодии из папки Music + вложенные папки</string>
+    <string name="rb_6_name">Все мелодии с устройства</string>
+
+</resources>
